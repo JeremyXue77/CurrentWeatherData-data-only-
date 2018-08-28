@@ -10,7 +10,7 @@ import UIKit
 
 // TODO: Register OpenWeatherMap account to get your API key.
 struct APIKeys {
-    static let apikey = "25022961f509258dc17251f812dd368d"
+    static let apikey = "Your API key."
 }
 
 class ViewController: UIViewController {
